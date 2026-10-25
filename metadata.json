@@ -1,0 +1,10 @@
+{
+  "name": "HeartTalk - AI Girlfriend & Virtual Companion",
+  "description": "HeartTalk is a romantic, caring AI girlfriend and virtual companion with real-time speech conversations in Hindi, English, and Hinglish, customizable avatars, and memory controls.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
